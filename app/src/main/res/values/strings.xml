@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="pengikut">pengikut</string>
+    <string name="Teknik_informatika">Teknik Informatika</string>
+    <string name="nilai">nilai</string>
+    <string name="produk">produk</string>
+    <string name="komentar" translatable="false">komentar</string>
+</resources>

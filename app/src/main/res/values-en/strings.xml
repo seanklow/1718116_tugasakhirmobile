@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profile</string>
+    <string name="pengikut">Followers</string>
+    <string name="nilai">Rating</string>
+    <string name="produk">product</string>
+    <string name="komentar">comments</string>
+    <string name="Teknik_informatika">Informatics Engineering</string>
+</resources>
